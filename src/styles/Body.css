@@ -71,7 +71,6 @@
     min-width: 200px;
     width: 23%;
     flex-grow: 1;
-    flex-shrink: ;
     padding: 39px 32px;
     padding: clamp(1rem, 2.7vw, 39px) clamp(1rem, 2.2vw, 32px);
     background: linear-gradient(135deg, rgba(27, 30, 35, 0.5) 0%, rgba(22, 25, 29, 0.5) 100%);
